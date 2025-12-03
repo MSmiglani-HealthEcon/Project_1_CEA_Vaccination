@@ -1,0 +1,4 @@
+parameter,value,units,notes
+vaccine_cost_per_person,200.0,INR,cost of vaccine dose + supply
+administration_cost_per_person,50.0,INR,staff/time/logistics
+treatment_cost_per_case,50000.0,INR,average hospital treatment cost per severe case

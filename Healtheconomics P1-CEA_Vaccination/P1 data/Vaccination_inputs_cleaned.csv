@@ -1,0 +1,11 @@
+parameter,value,units,notes
+population,10000.0,persons,cohort size for model
+vaccine_cost_per_person,200.0,INR,cost of vaccine dose + supply
+administration_cost_per_person,50.0,INR,staff/time/logistics
+treatment_cost_per_case,50000.0,INR,average hospital treatment cost per severe case
+baseline_incidence,0.05,per_person_per_year,5% annual risk without vaccine
+vaccine_efficacy,0.6,proportion,60% reduction in event risk
+qaly_no_vaccine,0.85,QALY,average annual QALY per person without vaccine
+qaly_with_vaccine,0.86,QALY,average annual QALY per person with vaccine
+time_horizon,1.0,year,one-year horizon (toy model)
+discount_rate,0.03,proportion,3% (not used for 1-year placeholder)

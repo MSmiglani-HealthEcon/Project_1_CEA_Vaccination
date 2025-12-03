@@ -1,0 +1,5 @@
+
+Methods (Draft):
+- Data: Vaccination program parameters including vaccine cost, administration cost, coverage, efficacy, and population size.
+- Calculations: Incremental costs and outcomes for cost-effectiveness analysis.
+- Visualization: Bar plots for monetary and non-monetary inputs.
